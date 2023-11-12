@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699745815 source:c:\users\victus\onedrive\documentos\tareas de programacion\programas del aula\control 2.1 v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
